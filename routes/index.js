@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Express WE second slot' });
+  res.render('index', { title: 'Express WE V2 from gitHub' });
 };
