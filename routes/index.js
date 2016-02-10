@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: 'Express West Europe V2 from GitHub' });
+  res.render('index', { title: 'Express West US' });
 };
